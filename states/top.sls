@@ -1,2 +1,2 @@
 include:
-  - {{ pillar['master']['environment'] }}
+  - {{ saltenv  }}
