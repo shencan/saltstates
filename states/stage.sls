@@ -1,3 +1,3 @@
 {{ pillar['master']['environment'] }}:
   '*':
-    - cpis
+    - cpis1
